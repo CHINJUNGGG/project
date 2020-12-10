@@ -1,0 +1,12 @@
+{
+  "name": "jedApp",
+  "displayName": "jedApp",
+  "expo": {
+    "name": "jedApp",
+    "slug": "jedApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
